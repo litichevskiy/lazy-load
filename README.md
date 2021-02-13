@@ -5,6 +5,7 @@
 LazyLoad uses [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) if browser not supporting IntersectionObserver you need add polyfill
 [IntersectionObserver-polyfill](https://github.com/w3c/IntersectionObserver/tree/main/polyfill)
 
+Also you can use [built-in lazy-loading](https://web.dev/browser-level-image-lazy-loading/)
 
 
 ### Usage
